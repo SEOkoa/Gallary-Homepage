@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+profile_img {
+    float: left;
+}
+
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+body>img {
+    width: 100%;
+}
+
+h2 {
+    color: wheat;
+}
+
+h3 {
+    color: white;
+}
+
